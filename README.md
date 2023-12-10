@@ -50,5 +50,5 @@ Staff details can be modified in administrator mode.
 ## Contribution
    - Rushikesh R. Patil
    
-
+   
 Feel free to contribute to the project by suggesting improvements or reporting issues.
